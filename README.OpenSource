@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "which-rs",
+    "License": "MIT,
+    "License File": "LICENSE",
+    "Version Number": "4.4.0",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/harryfei/which-rs",
+    "Description": "A Rust library that provides support for finding the path to an executable in the system's PATH."
+  }
+]
