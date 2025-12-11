@@ -28,4 +28,7 @@ ohos_cargo_crate("lib") {
         "//third_party/rust/crates/either:lib",
         "//third_party/rust/crates/libc:lib",
     ]
+    module_output_extension = ".rlib"
+    part_name = "rust_which_rs"
+    subsystem_name = "thirdparty"
 }
